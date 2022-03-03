@@ -1,1 +1,3 @@
-# contains py code for server
+# contains py code for serveraa
+
+print("Server...")
